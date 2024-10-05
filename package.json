@@ -1,0 +1,40 @@
+{
+  "name": "time-snap-be",
+  "version": "1.0.0",
+  "description": "backend for timeline ordering game",
+  "main": "dist/server.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "dev": "nodemon",
+    "test": "echo 'No tests specified'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMrva/Time-Snap-BE.git"
+  },
+  "keywords": [
+    "game",
+    "timeline"
+  ],
+  "author": "Daniel Mrva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMrva/Time-Snap-BE/issues"
+  },
+  "homepage": "https://github.com/DanielMrva/Time-Snap-BE#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.20"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.4",
+    "nodemon": "^3.1.7",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.6.2"
+  }
+}
