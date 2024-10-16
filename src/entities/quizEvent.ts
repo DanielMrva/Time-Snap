@@ -15,4 +15,7 @@ export class QuizEvent {
 
     @Column()
     order!: number
+
+    @Column()
+    randomizedOrder!: number
 }

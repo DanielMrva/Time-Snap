@@ -13,7 +13,7 @@ export class Event {
     @Column('int')
     year!: number
 
-    @Column()
+    @Column('text')
     description!: string;
 
     @Column()
@@ -28,7 +28,7 @@ export class Event {
     links?: {title: string; link: string}[];
     // Allows for an array of related links, IE: to Wikipedia
 
-    @Column({nullable: true})
+    @Column('text', {nullable: true})
     image_url?: string
     // Hopefully we can get some image URLS as well...
 }

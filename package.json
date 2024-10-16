@@ -7,7 +7,8 @@
     "build": "tsc",
     "start": "node dist/server.js",
     "dev": "nodemon",
-    "test": "echo 'No tests specified'"
+    "test": "echo 'No tests specified'",
+    "seed:dev": "SET NODE_ENV=development & ts-node src/utils/seed.ts"
   },
   "repository": {
     "type": "git",
@@ -24,6 +25,7 @@
   },
   "homepage": "https://github.com/DanielMrva/Time-Snap-BE#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.21.0",
     "mysql2": "^3.11.3",
     "node-cron": "^3.0.3",
