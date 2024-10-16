@@ -7,7 +7,8 @@ if (process.env.NODE_ENV == 'production') {
 import 'reflect-metadata';
 import express, { Application } from 'express';
 import { AppDataSource } from './config/database';
-// import { AppDataSource } from './config/database';
+import cron from 'node-cron'
+import { fetchAndStoreEvents } from './services/eventService';
 
 const app: Application = express();
 const PORT = process.env.PORT || 3000;
@@ -23,6 +24,11 @@ AppDataSource.initialize()
         })
     })
     .catch((error) => console.log(`DB connection error:`, error));
+
+cron.schedule('0 0 * * *', async () => {
+    console.log('Running scheduled task to fetch events and generate quiz...');
+    await fetchAndStoreEvents();
+  });
 
 
 

@@ -1,0 +1,1974 @@
+{
+	"selected": [
+		{
+			"text": "Thirteen-year-old Jayme Closs was kidnapped from her home in Barron, Wisconsin, and held captive for 88 days.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Kidnapping_of_Jayme_Closs",
+					"displaytitle": "<span class=\"mw-page-title-main\">Kidnapping of Jayme Closs</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q60521521",
+					"titles": {
+						"canonical": "Kidnapping_of_Jayme_Closs",
+						"normalized": "Kidnapping of Jayme Closs",
+						"display": "<span class=\"mw-page-title-main\">Kidnapping of Jayme Closs</span>"
+					},
+					"pageid": 58869016,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Closs_Home_Barron_Wisconsin.jpg/320px-Closs_Home_Barron_Wisconsin.jpg",
+						"width": 320,
+						"height": 205
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Closs_Home_Barron_Wisconsin.jpg",
+						"width": 2715,
+						"height": 1739
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251382215",
+					"tid": "3e39328e-8b3c-11ef-8910-33a07e167148",
+					"timestamp": "2024-10-15T21:27:13Z",
+					"description": "2018 double homicide and child abduction in Barron, Wisconsin",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 45.40166667,
+						"lon": -91.89841667
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs",
+							"revisions": "https://en.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Kidnapping_of_Jayme_Closs"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Kidnapping_of_Jayme_Closs",
+							"edit": "https://en.m.wikipedia.org/wiki/Kidnapping_of_Jayme_Closs?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Kidnapping_of_Jayme_Closs"
+						}
+					},
+					"extract": "On October 15, 2018, 21-year-old Jake Thomas Patterson abducted 13-year-old Jayme Lynn Closs after fatally shooting her parents, James and Denise Closs, at their home just outside of Barron, Wisconsin, at 12:53 a.m. Patterson took Closs to a house 70 miles (110 km) away in rural Gordon, Wisconsin, and held her in captivity for 88 days until she escaped on January 10, 2019, seeking help from neighbors.",
+					"extract_html": "<p>On October 15, 2018, 21-year-old Jake Thomas Patterson abducted 13-year-old Jayme Lynn Closs after fatally shooting her parents, James and Denise Closs, at their home just outside of Barron, Wisconsin, at 12:53 a.m. Patterson took Closs to a house 70 miles (110 km) away in rural Gordon, Wisconsin, and held her in captivity for 88 days until she escaped on January 10, 2019, seeking help from neighbors.</p>",
+					"normalizedtitle": "Kidnapping of Jayme Closs"
+				},
+				{
+					"type": "standard",
+					"title": "Barron,_Wisconsin",
+					"displaytitle": "<span class=\"mw-page-title-main\">Barron, Wisconsin</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q808975",
+					"titles": {
+						"canonical": "Barron,_Wisconsin",
+						"normalized": "Barron, Wisconsin",
+						"display": "<span class=\"mw-page-title-main\">Barron, Wisconsin</span>"
+					},
+					"pageid": 260287,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Stebbins_House.JPG/320px-Stebbins_House.JPG",
+						"width": 320,
+						"height": 230
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/7/76/Stebbins_House.JPG",
+						"width": 1326,
+						"height": 951
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1229145552",
+					"tid": "538828e0-2ac9-11ef-b7de-762df6807274",
+					"timestamp": "2024-06-15T03:42:45Z",
+					"description": "City in Wisconsin, United States",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 45.40055556,
+						"lon": -91.84805556
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Barron%2C_Wisconsin",
+							"revisions": "https://en.wikipedia.org/wiki/Barron%2C_Wisconsin?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Barron%2C_Wisconsin?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Barron%2C_Wisconsin"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Barron%2C_Wisconsin",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Barron%2C_Wisconsin",
+							"edit": "https://en.m.wikipedia.org/wiki/Barron%2C_Wisconsin?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Barron%2C_Wisconsin"
+						}
+					},
+					"extract": "Barron is a city in Barron County, in the U.S. state of Wisconsin. The population was 3,733 at the 2020 census. The city is surrounded by the Town of Barron.",
+					"extract_html": "<p><b>Barron</b> is a city in Barron County, in the U.S. state of Wisconsin. The population was 3,733 at the 2020 census. The city is surrounded by the Town of Barron.</p>",
+					"normalizedtitle": "Barron, Wisconsin"
+				}
+			],
+			"year": 2018
+		},
+		{
+			"text": "A 7.2-magnitude earthquake struck Bohol in the Philippines, resulting in 222 deaths.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "2013_Bohol_earthquake",
+					"displaytitle": "<span class=\"mw-page-title-main\">2013 Bohol earthquake</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q15071846",
+					"titles": {
+						"canonical": "2013_Bohol_earthquake",
+						"normalized": "2013 Bohol earthquake",
+						"display": "<span class=\"mw-page-title-main\">2013 Bohol earthquake</span>"
+					},
+					"pageid": 40795878,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Loon_2_earthquake.JPG/320px-Loon_2_earthquake.JPG",
+						"width": 320,
+						"height": 240
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Loon_2_earthquake.JPG",
+						"width": 2592,
+						"height": 1944
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1241239058",
+					"tid": "b967aeb4-5ea4-11ef-96c9-71dbcee8d97f",
+					"timestamp": "2024-08-20T03:31:45Z",
+					"description": "Magnitude 7.2 earthquake in Bohol",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 9.88,
+						"lon": 124.117
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake",
+							"revisions": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake?action=history",
+							"edit": "https://en.wikipedia.org/wiki/2013_Bohol_earthquake?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:2013_Bohol_earthquake"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/2013_Bohol_earthquake",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/2013_Bohol_earthquake",
+							"edit": "https://en.m.wikipedia.org/wiki/2013_Bohol_earthquake?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:2013_Bohol_earthquake"
+						}
+					},
+					"extract": "The 2013 Bohol earthquake occurred on October 15 at 8:12:31 PST in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at Mw 7.2, with epicenter 6 kilometres (3.7 mi) S 24° W of Sagbayan, and its depth of focus was 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao.",
+					"extract_html": "<p>The <b>2013 Bohol earthquake</b> occurred on October 15 at <span class=\"rt-commentedText tooltip tooltip-dotted \">8:12:31 PST</span> in Bohol, an island province located in Central Visayas, Philippines. The magnitude of the earthquake was recorded at <span><span class=\"rt-commentedText tooltip \">M<sub>w</sub></span></span> 7.2, with epicenter 6 kilometres (3.7 mi) <span class=\"nowrap\">S 24° W</span> of Sagbayan, and its depth of focus was 12 kilometres (7.5 mi). It affected the whole Central Visayas region, particularly Bohol and Cebu. The earthquake was felt in the whole Visayas area and as far as Masbate island in the north and Cotabato provinces in southern Mindanao.</p>",
+					"normalizedtitle": "2013 Bohol earthquake"
+				},
+				{
+					"type": "standard",
+					"title": "Bohol",
+					"displaytitle": "<span class=\"mw-page-title-main\">Bohol</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q13752",
+					"titles": {
+						"canonical": "Bohol",
+						"normalized": "Bohol",
+						"display": "<span class=\"mw-page-title-main\">Bohol</span>"
+					},
+					"pageid": 244394,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolate_Hills_Bohol_Philippines.jpg/320px-Chocolate_Hills_Bohol_Philippines.jpg",
+						"width": 320,
+						"height": 214
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Chocolate_Hills_Bohol_Philippines.jpg",
+						"width": 3872,
+						"height": 2592
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250038438",
+					"tid": "31f4f76b-852b-11ef-bde2-7de7a0a26022",
+					"timestamp": "2024-10-08T04:10:04Z",
+					"description": "Philippines province",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 9.9,
+						"lon": 124.2
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Bohol",
+							"revisions": "https://en.wikipedia.org/wiki/Bohol?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Bohol?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Bohol"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Bohol",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Bohol",
+							"edit": "https://en.m.wikipedia.org/wiki/Bohol?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Bohol"
+						}
+					},
+					"extract": "Bohol, officially the Province of Bohol, is an island province of the Philippines located in the Central Visayas region, consisting of the island itself and 75 minor surrounding islands. Its capital is Tagbilaran, the largest city of the province. With a land area of 4,821 km2 (1,861 sq mi) and a coastline 261 km (162 mi) long, Bohol is the tenth largest island of the Philippines.",
+					"extract_html": "<p><b>Bohol</b>, officially the <b>Province of Bohol</b>, is an island province of the Philippines located in the Central Visayas region, consisting of the island itself and 75 minor surrounding islands. Its capital is Tagbilaran, the largest city of the province. With a land area of 4,821 km<sup>2</sup> (1,861 sq mi) and a coastline 261 km (162 mi) long, Bohol is the tenth largest island of the Philippines.</p>",
+					"normalizedtitle": "Bohol"
+				}
+			],
+			"year": 2013
+		},
+		{
+			"text": "Global demonstrations against economic inequality, corporate influence on government, and other issues, were held in more than 950 cities in 82 countries.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "15_October_2011_global_protests",
+					"displaytitle": "<span class=\"mw-page-title-main\">15 October 2011 global protests</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q3133630",
+					"titles": {
+						"canonical": "15_October_2011_global_protests",
+						"normalized": "15 October 2011 global protests",
+						"display": "<span class=\"mw-page-title-main\">15 October 2011 global protests</span>"
+					},
+					"pageid": 33420276,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Combination_of_October_2011_global_protests.jpg/320px-Combination_of_October_2011_global_protests.jpg",
+						"width": 320,
+						"height": 346
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Combination_of_October_2011_global_protests.jpg",
+						"width": 1166,
+						"height": 1260
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1243724624",
+					"tid": "99061fe6-6999-11ef-b9b3-f13033c00c59",
+					"timestamp": "2024-09-03T02:09:49Z",
+					"description": "Series of protests",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/15_October_2011_global_protests",
+							"revisions": "https://en.wikipedia.org/wiki/15_October_2011_global_protests?action=history",
+							"edit": "https://en.wikipedia.org/wiki/15_October_2011_global_protests?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:15_October_2011_global_protests"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/15_October_2011_global_protests",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/15_October_2011_global_protests",
+							"edit": "https://en.m.wikipedia.org/wiki/15_October_2011_global_protests?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:15_October_2011_global_protests"
+						}
+					},
+					"extract": "The 15 October 2011 global protests were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish Plataforma ¡Democracia Real YA! in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000.",
+					"extract_html": "<p>The <b>15 October 2011 global protests</b> were part of a series of protests inspired by the Arab Spring, the Icelandic protests, the Portuguese \"Geração à Rasca\", the Spanish \"Indignants\", the Greek protests, and the Occupy movement. The protests were launched under the slogan \"United for #GlobalChange\", to which the slogan \"United for Global Democracy\" was added by many people's assemblies. The protest was first called for by the Spanish <i>Plataforma ¡Democracia Real YA!</i> in May 2011 and endorsed by people's assemblies across the world. Reasons were varied but mainly targeted growing economic inequality, corporate influence over government and international institutions, and the lack of truly democratic institutions allowing direct public participation at all levels, local to global. Global demonstrations were held on 15 October in more than 950 cities in 82 countries. The date was chosen to coincide with the 5-month anniversary of the first protest in Spain. General assemblies, the social network n-1, mailing lists, Mumble voice chat, open pads such as Pirate Pad and Titan Pad, and Facebook were used to coordinate the events. Some protests were only a few hundred in number, whereas others numbered in the hundreds of thousands, with the largest in Madrid numbering half a million and the second largest city Barcelona with 400,000.</p>",
+					"normalizedtitle": "15 October 2011 global protests"
+				}
+			],
+			"year": 2011
+		},
+		{
+			"text": "New Zealand Police conducted several anti-terrorism raids in relation to the discovery of an alleged paramilitary training camp in the Urewera mountain ranges, arresting 17 people and seizing four guns and 230 rounds of ammunition.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "New_Zealand_Police",
+					"displaytitle": "<span class=\"mw-page-title-main\">New Zealand Police</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q12063956",
+					"titles": {
+						"canonical": "New_Zealand_Police",
+						"normalized": "New Zealand Police",
+						"display": "<span class=\"mw-page-title-main\">New Zealand Police</span>"
+					},
+					"pageid": 406756,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_New_Zealand_Police.svg/320px-Flag_of_New_Zealand_Police.svg.png",
+						"width": 320,
+						"height": 160
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_New_Zealand_Police.svg/2400px-Flag_of_New_Zealand_Police.svg.png",
+						"width": 2400,
+						"height": 1200
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1249117941",
+					"tid": "f938f4a4-815c-11ef-8791-d26fcce42107",
+					"timestamp": "2024-10-03T07:56:19Z",
+					"description": "National police service of New Zealand",
+					"description_source": "local",
+					"coordinates": {
+						"lat": -41.2734,
+						"lon": 174.7782
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/New_Zealand_Police",
+							"revisions": "https://en.wikipedia.org/wiki/New_Zealand_Police?action=history",
+							"edit": "https://en.wikipedia.org/wiki/New_Zealand_Police?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:New_Zealand_Police"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/New_Zealand_Police",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/New_Zealand_Police",
+							"edit": "https://en.m.wikipedia.org/wiki/New_Zealand_Police?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:New_Zealand_Police"
+						}
+					},
+					"extract": "The New Zealand Police is the national police service and principal law enforcement agency of New Zealand, responsible for preventing crime, enhancing public safety, bringing offenders to justice, and maintaining public order. With over 15,000 personnel, it is the largest law enforcement agency in New Zealand and, with few exceptions, has primary jurisdiction over the majority of New Zealand criminal law. The New Zealand Police also has responsibility for traffic and commercial vehicle enforcement as well as other key responsibilities including protection of dignitaries, firearms licensing, and matters of national security.",
+					"extract_html": "<p>The <b>New Zealand Police</b> is the national police service and principal law enforcement agency of New Zealand, responsible for preventing crime, enhancing public safety, bringing offenders to justice, and maintaining public order. With over 15,000 personnel, it is the largest law enforcement agency in New Zealand and, with few exceptions, has primary jurisdiction over the majority of New Zealand criminal law. The New Zealand Police also has responsibility for traffic and commercial vehicle enforcement as well as other key responsibilities including protection of dignitaries, firearms licensing, and matters of national security.</p>",
+					"normalizedtitle": "New Zealand Police"
+				},
+				{
+					"type": "standard",
+					"title": "2007_New_Zealand_police_raids",
+					"displaytitle": "<span class=\"mw-page-title-main\">2007 New Zealand police raids</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q4609017",
+					"titles": {
+						"canonical": "2007_New_Zealand_police_raids",
+						"normalized": "2007 New Zealand police raids",
+						"display": "<span class=\"mw-page-title-main\">2007 New Zealand police raids</span>"
+					},
+					"pageid": 13737317,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ng%C4%81i_T%C5%ABhoe.png/320px-Ng%C4%81i_T%C5%ABhoe.png",
+						"width": 320,
+						"height": 366
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Ng%C4%81i_T%C5%ABhoe.png",
+						"width": 695,
+						"height": 794
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251368880",
+					"tid": "73d8fc44-8b32-11ef-9b2a-2265ea8c212c",
+					"timestamp": "2024-10-15T20:17:08Z",
+					"description": "Series of armed NZ police raids",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids",
+							"revisions": "https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids?action=history",
+							"edit": "https://en.wikipedia.org/wiki/2007_New_Zealand_police_raids?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:2007_New_Zealand_police_raids"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/2007_New_Zealand_police_raids",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/2007_New_Zealand_police_raids",
+							"edit": "https://en.m.wikipedia.org/wiki/2007_New_Zealand_police_raids?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:2007_New_Zealand_police_raids"
+						}
+					},
+					"extract": "The 2007 New Zealand police raids were a series of armed police raids conducted on 15 and 16 October 2007, in response to alleged paramilitary training camps in the Urewera mountain range near the town of Ruatoki. About 300 police, including members of the Armed Offenders Squad and Special Tactics Group, were involved in the raids, which involved the execution of search warrants at various addresses throughout New Zealand, and the establishment of roadblocks at Ruatoki and Tāneatua. The police seized four guns and 230 rounds of ammunition and arrested eighteen people. According to police, the raids were a culmination of more than a year of surveillance that uncovered and monitored the training camps.",
+					"extract_html": "<p>The <b>2007 New Zealand police raids</b> were a series of armed police raids conducted on 15 and 16 October 2007, in response to alleged paramilitary training camps in the Urewera mountain range near the town of Ruatoki. About 300 police, including members of the Armed Offenders Squad and Special Tactics Group, were involved in the raids, which involved the execution of search warrants at various addresses throughout New Zealand, and the establishment of roadblocks at Ruatoki and Tāneatua. The police seized four guns and 230 rounds of ammunition and arrested eighteen people. According to police, the raids were a culmination of more than a year of surveillance that uncovered and monitored the training camps.</p>",
+					"normalizedtitle": "2007 New Zealand police raids"
+				},
+				{
+					"type": "standard",
+					"title": "Te_Urewera",
+					"displaytitle": "<span class=\"mw-page-title-main\">Te Urewera</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q7691001",
+					"titles": {
+						"canonical": "Te_Urewera",
+						"normalized": "Te Urewera",
+						"display": "<span class=\"mw-page-title-main\">Te Urewera</span>"
+					},
+					"pageid": 1953770,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg/320px-Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg",
+						"width": 320,
+						"height": 199
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Lake_Waikaremoana%2C_Urewera%2C_New_Zealand%2C_13th._Dec_2010_-_Flickr_-_PhillipC.jpg",
+						"width": 3825,
+						"height": 2384
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251199203",
+					"tid": "0c608359-8a7c-11ef-97e9-b7b4ba577011",
+					"timestamp": "2024-10-14T22:31:26Z",
+					"coordinates": {
+						"lat": -38.45,
+						"lon": 177.05
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Te_Urewera",
+							"revisions": "https://en.wikipedia.org/wiki/Te_Urewera?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Te_Urewera?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Te_Urewera"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Te_Urewera",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Te_Urewera",
+							"edit": "https://en.m.wikipedia.org/wiki/Te_Urewera?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Te_Urewera"
+						}
+					},
+					"extract": "Te Urewera is an area of mostly forested, sparsely populated rugged hill country in the North Island of New Zealand, located inland between the Bay of Plenty and Hawke Bay. Te Urewera is the rohe of Tūhoe, a Māori iwi (tribe) known for its stance on Māori sovereignty.",
+					"extract_html": "<p><b>Te Urewera</b> is an area of mostly forested, sparsely populated rugged hill country in the North Island of New Zealand, located inland between the Bay of Plenty and Hawke Bay. Te Urewera is the <i>rohe</i> of Tūhoe, a Māori iwi (tribe) known for its stance on Māori sovereignty.</p>",
+					"normalizedtitle": "Te Urewera"
+				}
+			],
+			"year": 2007
+		},
+		{
+			"text": "An earthquake registering 6.7 Mw occurred off the northwestern coast of the island of Hawaii.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "2006_Kiholo_Bay_earthquake",
+					"displaytitle": "<span class=\"mw-page-title-main\">2006 Kiholo Bay earthquake</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q3088738",
+					"titles": {
+						"canonical": "2006_Kiholo_Bay_earthquake",
+						"normalized": "2006 Kiholo Bay earthquake",
+						"display": "<span class=\"mw-page-title-main\">2006 Kiholo Bay earthquake</span>"
+					},
+					"pageid": 7459027,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1243228198",
+					"tid": "c4f0a0ac-676c-11ef-8894-43038c5a006a",
+					"timestamp": "2024-08-31T07:43:53Z",
+					"description": "6.7 magnitude earthquake in Hawaii",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 19.877,
+						"lon": -155.935
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/2006_Kiholo_Bay_earthquake",
+							"revisions": "https://en.wikipedia.org/wiki/2006_Kiholo_Bay_earthquake?action=history",
+							"edit": "https://en.wikipedia.org/wiki/2006_Kiholo_Bay_earthquake?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:2006_Kiholo_Bay_earthquake"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/2006_Kiholo_Bay_earthquake",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/2006_Kiholo_Bay_earthquake",
+							"edit": "https://en.m.wikipedia.org/wiki/2006_Kiholo_Bay_earthquake?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:2006_Kiholo_Bay_earthquake"
+						}
+					},
+					"extract": "The 2006 Kīholo Bay earthquake occurred on October 15 at 07:07:49 local time with a magnitude of 6.7 and a maximum Mercalli intensity of VIII (Severe). The shock was centered 21 kilometers (13 mi) southwest of Puakō and 21 km (13 mi) north of Kailua-Kona, Hawaiʻi, just offshore of the Kona Airport, at a depth of 38.2 km (23.7 mi). It produced several aftershocks, including one that measured a magnitude of 6.1 seven minutes after the main shock. The Pacific Tsunami Warning Center measured a nondestructive tsunami of 4 in (100 mm) on the coast of the Big Island.",
+					"extract_html": "<p>The <b>2006 Kīholo Bay earthquake</b> occurred on October 15 at <span class=\"rt-commentedText tooltip tooltip-dotted \">07:07:49 local time</span> with a magnitude of 6.7 and a maximum Mercalli intensity of VIII (<i>Severe</i>). The shock was centered 21 kilometers (13 mi) southwest of Puakō and 21 km (13 mi) north of Kailua-Kona, Hawaiʻi, just offshore of the Kona Airport, at a depth of 38.2 km (23.7 mi). It produced several aftershocks, including one that measured a magnitude of 6.1 seven minutes after the main shock. The Pacific Tsunami Warning Center measured a nondestructive tsunami of 4 in (100 mm) on the coast of the Big Island.</p>",
+					"normalizedtitle": "2006 Kiholo Bay earthquake"
+				},
+				{
+					"type": "standard",
+					"title": "Moment_magnitude_scale",
+					"displaytitle": "<span class=\"mw-page-title-main\">Moment magnitude scale</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q201605",
+					"titles": {
+						"canonical": "Moment_magnitude_scale",
+						"normalized": "Moment magnitude scale",
+						"display": "<span class=\"mw-page-title-main\">Moment magnitude scale</span>"
+					},
+					"pageid": 631494,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1248361716",
+					"tid": "37f23a41-7e0f-11ef-91bd-ba41c316ce27",
+					"timestamp": "2024-09-29T03:02:10Z",
+					"description": "Measure of earthquake size, in terms of the energy released",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
+							"revisions": "https://en.wikipedia.org/wiki/Moment_magnitude_scale?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Moment_magnitude_scale?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Moment_magnitude_scale"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Moment_magnitude_scale",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Moment_magnitude_scale",
+							"edit": "https://en.m.wikipedia.org/wiki/Moment_magnitude_scale?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Moment_magnitude_scale"
+						}
+					},
+					"extract": "The moment magnitude scale is a measure of an earthquake's magnitude based on its seismic moment. Mw  was defined in a 1979 paper by Thomas C. Hanks and Hiroo Kanamori. Similar to the local magnitude/Richter scale (ML ) defined by Charles Francis Richter in 1935, it uses a logarithmic scale; small earthquakes have approximately the same magnitudes on both scales. Despite the difference, news media often use the term \"Richter scale\" when referring to the moment magnitude scale.",
+					"extract_html": "<p>The <b>moment magnitude scale</b> is a measure of an earthquake's magnitude based on its seismic moment. <b>M<sub>w</sub> </b> was defined in a 1979 paper by Thomas C. Hanks and Hiroo Kanamori. Similar to the local magnitude/Richter scale (M<sub>L</sub> ) defined by Charles Francis Richter in 1935, it uses a logarithmic scale; small earthquakes have approximately the same magnitudes on both scales. Despite the difference, news media often use the term \"Richter scale\" when referring to the moment magnitude scale.</p>",
+					"normalizedtitle": "Moment magnitude scale"
+				},
+				{
+					"type": "standard",
+					"title": "Hawaii_(island)",
+					"displaytitle": "<span class=\"mw-page-title-main\">Hawaii (island)</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q68740",
+					"titles": {
+						"canonical": "Hawaii_(island)",
+						"normalized": "Hawaii (island)",
+						"display": "<span class=\"mw-page-title-main\">Hawaii (island)</span>"
+					},
+					"pageid": 70962,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Island_of_Hawai%27i_-_Landsat_mosaic.jpg/320px-Island_of_Hawai%27i_-_Landsat_mosaic.jpg",
+						"width": 320,
+						"height": 320
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Island_of_Hawai%27i_-_Landsat_mosaic.jpg",
+						"width": 5076,
+						"height": 5076
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1243478825",
+					"tid": "104ea0bf-688e-11ef-80ca-172a9e96ae34",
+					"timestamp": "2024-09-01T18:14:44Z",
+					"description": "Largest of the Hawaiian islands",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 19.6,
+						"lon": -155.5
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Hawaii_(island)",
+							"revisions": "https://en.wikipedia.org/wiki/Hawaii_(island)?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Hawaii_(island)?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Hawaii_(island)"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Hawaii_(island)",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hawaii_(island)",
+							"edit": "https://en.m.wikipedia.org/wiki/Hawaii_(island)?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Hawaii_(island)"
+						}
+					},
+					"extract": "Hawaii is the largest island in the United States, located in the eponymous state of Hawaii. It is the southeasternmost of the Hawaiian Islands, a chain of volcanic islands in the North Pacific Ocean. With an area of 4,028 square miles (10,430 km2), it has 63% of the Hawaiian archipelago's combined landmass. However, it has only 13% of the archipelago's population. The island of Hawaiʻi is the third largest island in Polynesia, behind the north and south islands of New Zealand.",
+					"extract_html": "<p><b>Hawaii</b> is the largest island in the United States, located in the eponymous state of Hawaii. It is the southeasternmost of the Hawaiian Islands, a chain of volcanic islands in the North Pacific Ocean. With an area of 4,028 square miles (10,430 km<sup>2</sup>), it has 63% of the Hawaiian archipelago's combined landmass. However, it has only 13% of the archipelago's population. The island of Hawaiʻi is the third largest island in Polynesia, behind the north and south islands of New Zealand.</p>",
+					"normalizedtitle": "Hawaii (island)"
+				}
+			],
+			"year": 2006
+		},
+		{
+			"text": "A march by members of the National Socialist Movement, a neo-Nazi group, in Toledo, Ohio, U.S., sparked a riot among protestors.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "National_Socialist_Movement_(United_States)",
+					"displaytitle": "<span class=\"mw-page-title-main\">National Socialist Movement (United States)</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q1073799",
+					"titles": {
+						"canonical": "National_Socialist_Movement_(United_States)",
+						"normalized": "National Socialist Movement (United States)",
+						"display": "<span class=\"mw-page-title-main\">National Socialist Movement (United States)</span>"
+					},
+					"pageid": 11110218,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_National_Socialist_Movement_%28United_States%29.svg/320px-Flag_of_National_Socialist_Movement_%28United_States%29.svg.png",
+						"width": 320,
+						"height": 192
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_National_Socialist_Movement_%28United_States%29.svg/1086px-Flag_of_National_Socialist_Movement_%28United_States%29.svg.png",
+						"width": 1086,
+						"height": 650
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250173807",
+					"tid": "64058b2d-85c2-11ef-acf8-c85feb3b2b4b",
+					"timestamp": "2024-10-08T22:12:22Z",
+					"description": "American Neo-Nazi organization (1974-)",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/National_Socialist_Movement_(United_States)",
+							"revisions": "https://en.wikipedia.org/wiki/National_Socialist_Movement_(United_States)?action=history",
+							"edit": "https://en.wikipedia.org/wiki/National_Socialist_Movement_(United_States)?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:National_Socialist_Movement_(United_States)"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/National_Socialist_Movement_(United_States)",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/National_Socialist_Movement_(United_States)",
+							"edit": "https://en.m.wikipedia.org/wiki/National_Socialist_Movement_(United_States)?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:National_Socialist_Movement_(United_States)"
+						}
+					},
+					"extract": "The National Socialist Movement is a Neo-Nazi organization based in the United States. Once considered to be the largest and most prominent Neo-Nazi organization in the United States, since the late 2010s its membership and prominence have plummeted. It was a part of the Nationalist Front and it is classified as a hate group by the Southern Poverty Law Center.",
+					"extract_html": "<p>The <b>National Socialist Movement</b> is a Neo-Nazi organization based in the United States. Once considered to be the largest and most prominent Neo-Nazi organization in the United States, since the late 2010s its membership and prominence have plummeted. It was a part of the Nationalist Front and it is classified as a hate group by the Southern Poverty Law Center.</p>",
+					"normalizedtitle": "National Socialist Movement (United States)"
+				},
+				{
+					"type": "standard",
+					"title": "Neo-Nazism",
+					"displaytitle": "<span class=\"mw-page-title-main\">Neo-Nazism</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q151250",
+					"titles": {
+						"canonical": "Neo-Nazism",
+						"normalized": "Neo-Nazism",
+						"display": "<span class=\"mw-page-title-main\">Neo-Nazism</span>"
+					},
+					"pageid": 54361,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1249753205",
+					"tid": "738c81d8-8407-11ef-a8f8-7e7183ca1824",
+					"timestamp": "2024-10-06T17:21:41Z",
+					"description": "Movement to revive Nazi ideologies",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Neo-Nazism",
+							"revisions": "https://en.wikipedia.org/wiki/Neo-Nazism?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Neo-Nazism?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Neo-Nazism"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Neo-Nazism",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Neo-Nazism",
+							"edit": "https://en.m.wikipedia.org/wiki/Neo-Nazism?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Neo-Nazism"
+						}
+					},
+					"extract": "Neo-Nazism comprises the post-World War II militant, social, and political movements that seek to revive and reinstate Nazi ideology. Neo-Nazis employ their ideology to promote hatred and racial supremacy, to attack racial and ethnic minorities, and in some cases to create a fascist state.",
+					"extract_html": "<p><b>Neo-Nazism</b> comprises the post-World War II militant, social, and political movements that seek to revive and reinstate Nazi ideology. Neo-Nazis employ their ideology to promote hatred and racial supremacy, to attack racial and ethnic minorities, and in some cases to create a fascist state.</p>",
+					"normalizedtitle": "Neo-Nazism"
+				},
+				{
+					"type": "standard",
+					"title": "Toledo,_Ohio",
+					"displaytitle": "<span class=\"mw-page-title-main\">Toledo, Ohio</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q49239",
+					"titles": {
+						"canonical": "Toledo,_Ohio",
+						"normalized": "Toledo, Ohio",
+						"display": "<span class=\"mw-page-title-main\">Toledo, Ohio</span>"
+					},
+					"pageid": 30849,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/University_Hall_UToledo.JPG/320px-University_Hall_UToledo.JPG",
+						"width": 320,
+						"height": 240
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/5/51/University_Hall_UToledo.JPG",
+						"width": 2560,
+						"height": 1920
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250962561",
+					"tid": "a0e2cddc-897a-11ef-b5c9-885b5302ed19",
+					"timestamp": "2024-10-13T15:48:45Z",
+					"description": "City in Ohio, United States",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 41.65277778,
+						"lon": -83.53777778
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Toledo%2C_Ohio",
+							"revisions": "https://en.wikipedia.org/wiki/Toledo%2C_Ohio?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Toledo%2C_Ohio?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Toledo%2C_Ohio"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Toledo%2C_Ohio",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Toledo%2C_Ohio",
+							"edit": "https://en.m.wikipedia.org/wiki/Toledo%2C_Ohio?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Toledo%2C_Ohio"
+						}
+					},
+					"extract": "Toledo is a city in and the county seat of Lucas County, Ohio, United States. At the 2020 census, it had a population of 270,871, making Toledo the fourth-most populous city in Ohio, after Columbus, Cleveland, and Cincinnati. Toledo is the 85th-most populous city in the United States. It is the principal city of the Toledo metropolitan area, which had 606,240 residents in 2020. Toledo also serves as a major trade center for the Midwest; its port is the fifth-busiest on the Great Lakes.",
+					"extract_html": "<p><b>Toledo</b> is a city in and the county seat of Lucas County, Ohio, United States. At the 2020 census, it had a population of 270,871, making Toledo the fourth-most populous city in Ohio, after Columbus, Cleveland, and Cincinnati. Toledo is the 85th-most populous city in the United States. It is the principal city of the Toledo metropolitan area, which had 606,240 residents in 2020. Toledo also serves as a major trade center for the Midwest; its port is the fifth-busiest on the Great Lakes.</p>",
+					"normalizedtitle": "Toledo, Ohio"
+				},
+				{
+					"type": "standard",
+					"title": "2005_Toledo_riot",
+					"displaytitle": "<span class=\"mw-page-title-main\">2005 Toledo riot</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q4604948",
+					"titles": {
+						"canonical": "2005_Toledo_riot",
+						"normalized": "2005 Toledo riot",
+						"display": "<span class=\"mw-page-title-main\">2005 Toledo riot</span>"
+					},
+					"pageid": 3011366,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/North_Toledo_riot_image.jpg/320px-North_Toledo_riot_image.jpg",
+						"width": 320,
+						"height": 213
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/North_Toledo_riot_image.jpg",
+						"width": 2313,
+						"height": 1542
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1234345346",
+					"tid": "ddc3c020-4161-11ef-a9a3-267faecb03c8",
+					"timestamp": "2024-07-13T21:50:06Z",
+					"description": "Clash between neo-Nazi and anti-fascist demonstrators in Ohio",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/2005_Toledo_riot",
+							"revisions": "https://en.wikipedia.org/wiki/2005_Toledo_riot?action=history",
+							"edit": "https://en.wikipedia.org/wiki/2005_Toledo_riot?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:2005_Toledo_riot"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/2005_Toledo_riot",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/2005_Toledo_riot",
+							"edit": "https://en.m.wikipedia.org/wiki/2005_Toledo_riot?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:2005_Toledo_riot"
+						}
+					},
+					"extract": "The 2005 Toledo riot, on October 15, 2005, occurred when the National Socialist Movement (NSM), a neo-Nazi organization, planned a march to protest African-American gang activity in the North End of Toledo, in the U.S. state of Ohio. The appearance of the group sparked a four-hour riot by elements within the assembled protesters, and caused a citywide curfew to be implemented for the remainder of the weekend.",
+					"extract_html": "<p>The <b>2005 Toledo riot</b>, on October 15, 2005, occurred when the National Socialist Movement (NSM), a neo-Nazi organization, planned a march to protest African-American gang activity in the North End of Toledo, in the U.S. state of Ohio. The appearance of the group sparked a four-hour riot by elements within the assembled protesters, and caused a citywide curfew to be implemented for the remainder of the weekend.</p>",
+					"normalizedtitle": "2005 Toledo riot"
+				}
+			],
+			"year": 2005
+		},
+		{
+			"text": "President Carlos Humberto Romero of El Salvador was overthrown and exiled in a military coup d'état.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Carlos_Humberto_Romero",
+					"displaytitle": "<span class=\"mw-page-title-main\">Carlos Humberto Romero</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q880982",
+					"titles": {
+						"canonical": "Carlos_Humberto_Romero",
+						"normalized": "Carlos Humberto Romero",
+						"display": "<span class=\"mw-page-title-main\">Carlos Humberto Romero</span>"
+					},
+					"pageid": 2065491,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Humberto_Romero_1977.jpg",
+						"width": 188,
+						"height": 236
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Humberto_Romero_1977.jpg",
+						"width": 188,
+						"height": 236
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251345148",
+					"tid": "db397f66-8b1f-11ef-bd00-da8395595c57",
+					"timestamp": "2024-10-15T18:04:01Z",
+					"description": "President of El Salvador from 1977 to 1979",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Carlos_Humberto_Romero",
+							"revisions": "https://en.wikipedia.org/wiki/Carlos_Humberto_Romero?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Carlos_Humberto_Romero?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Carlos_Humberto_Romero"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Carlos_Humberto_Romero",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carlos_Humberto_Romero",
+							"edit": "https://en.m.wikipedia.org/wiki/Carlos_Humberto_Romero?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Carlos_Humberto_Romero"
+						}
+					},
+					"extract": "Carlos Humberto Romero Mena was a Salvadoran military general and politician who served as president of El Salvador from 1 July 1977 until his overthrow on 15 October 1979. Romero was the final president of the country's military dictatorship which began in 1931.",
+					"extract_html": "<p><b>Carlos Humberto Romero Mena</b> was a Salvadoran military general and politician who served as president of El Salvador from 1 July 1977 until his overthrow on 15 October 1979. Romero was the final president of the country's military dictatorship which began in 1931.</p>",
+					"normalizedtitle": "Carlos Humberto Romero"
+				},
+				{
+					"type": "standard",
+					"title": "1979_Salvadoran_coup_d'état",
+					"displaytitle": "<span class=\"mw-page-title-main\">1979 Salvadoran coup d&#039;état</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q84806169",
+					"titles": {
+						"canonical": "1979_Salvadoran_coup_d'état",
+						"normalized": "1979 Salvadoran coup d'état",
+						"display": "<span class=\"mw-page-title-main\">1979 Salvadoran coup d&#039;état</span>"
+					},
+					"pageid": 62034784,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251359473",
+					"tid": "04abdbac-8b2b-11ef-b045-3e0dcb931292",
+					"timestamp": "2024-10-15T19:23:55Z",
+					"description": "Overthrow of President Romero",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/1979_Salvadoran_coup_d'%C3%A9tat",
+							"revisions": "https://en.wikipedia.org/wiki/1979_Salvadoran_coup_d'%C3%A9tat?action=history",
+							"edit": "https://en.wikipedia.org/wiki/1979_Salvadoran_coup_d'%C3%A9tat?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:1979_Salvadoran_coup_d'%C3%A9tat"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/1979_Salvadoran_coup_d'%C3%A9tat",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/1979_Salvadoran_coup_d'%C3%A9tat",
+							"edit": "https://en.m.wikipedia.org/wiki/1979_Salvadoran_coup_d'%C3%A9tat?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:1979_Salvadoran_coup_d'%C3%A9tat"
+						}
+					},
+					"extract": "The 1979 Salvadoran coup d'état was a military coup d'état that occurred in El Salvador on 15 October 1979. The coup, led by young military officers, bloodlessly overthrew military President Carlos Humberto Romero and sent him into exile. The National Conciliation Party's firm grasp on power was cut, and in its place, the military established the Revolutionary Government Junta of El Salvador (JRG). The junta was composed of two military officers and three civilians.",
+					"extract_html": "<p>The <b>1979 Salvadoran coup d'état</b> was a military coup d'état that occurred in El Salvador on 15 October 1979. The coup, led by young military officers, bloodlessly overthrew military President Carlos Humberto Romero and sent him into exile. The National Conciliation Party's firm grasp on power was cut, and in its place, the military established the Revolutionary Government Junta of El Salvador (JRG). The junta was composed of two military officers and three civilians.</p>",
+					"normalizedtitle": "1979 Salvadoran coup d'état"
+				}
+			],
+			"year": 1979
+		},
+		{
+			"text": "Vietnam War protests: At an anti-war rally in New York City, David J. Miller burned his draft card (example pictured), the first such act to result in arrest under a new amendment to the Selective Service Act.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Opposition_to_United_States_involvement_in_the_Vietnam_War",
+					"displaytitle": "<span class=\"mw-page-title-main\">Opposition to United States involvement in the Vietnam War</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q5254589",
+					"titles": {
+						"canonical": "Opposition_to_United_States_involvement_in_the_Vietnam_War",
+						"normalized": "Opposition to United States involvement in the Vietnam War",
+						"display": "<span class=\"mw-page-title-main\">Opposition to United States involvement in the Vietnam War</span>"
+					},
+					"pageid": 1854610,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Vietnamdem.jpg/320px-Vietnamdem.jpg",
+						"width": 320,
+						"height": 318
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/0/03/Vietnamdem.jpg",
+						"width": 2400,
+						"height": 2384
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1249058027",
+					"tid": "975286b8-8110-11ef-b9e1-a989c659c7b5",
+					"timestamp": "2024-10-02T22:49:33Z",
+					"description": "1965–1973 anti-war movement",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War",
+							"revisions": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Opposition_to_United_States_involvement_in_the_Vietnam_War"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Opposition_to_United_States_involvement_in_the_Vietnam_War",
+							"edit": "https://en.m.wikipedia.org/wiki/Opposition_to_United_States_involvement_in_the_Vietnam_War?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Opposition_to_United_States_involvement_in_the_Vietnam_War"
+						}
+					},
+					"extract": "Opposition to United States involvement in the Vietnam War began in 1965 with demonstrations against the escalating role of the United States in the war. Over the next several years, these demonstrations grew into a social movement which was incorporated into the broader counterculture of the 1960s.",
+					"extract_html": "<p><b>Opposition to United States involvement in the Vietnam War</b> began in 1965 with demonstrations against the escalating role of the United States in the war. Over the next several years, these demonstrations grew into a social movement which was incorporated into the broader counterculture of the 1960s.</p>",
+					"normalizedtitle": "Opposition to United States involvement in the Vietnam War"
+				},
+				{
+					"type": "standard",
+					"title": "Draft-card_burning",
+					"displaytitle": "<span class=\"mw-page-title-main\">Draft-card burning</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q5304755",
+					"titles": {
+						"canonical": "Draft-card_burning",
+						"normalized": "Draft-card burning",
+						"display": "<span class=\"mw-page-title-main\">Draft-card burning</span>"
+					},
+					"pageid": 31159303,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Draft_card_burning_NYC_1967.jpg/320px-Draft_card_burning_NYC_1967.jpg",
+						"width": 320,
+						"height": 241
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Draft_card_burning_NYC_1967.jpg",
+						"width": 704,
+						"height": 531
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251235598",
+					"tid": "362a97d1-8a9e-11ef-88e4-edcd2276d66d",
+					"timestamp": "2024-10-15T02:35:59Z",
+					"description": "Vietnam War draft protests, 1964–1973",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Draft-card_burning",
+							"revisions": "https://en.wikipedia.org/wiki/Draft-card_burning?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Draft-card_burning?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Draft-card_burning"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Draft-card_burning",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Draft-card_burning",
+							"edit": "https://en.m.wikipedia.org/wiki/Draft-card_burning?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Draft-card_burning"
+						}
+					},
+					"extract": "Draft-card burning was a symbol of protest performed by thousands of young men in the United States and Australia in the 1960s and early 1970s as part of the anti-war movement. The first draft-card burners were American men participating in the opposition to United States involvement in the Vietnam War. The first well-publicized protest was in December 1963, with a 22-year-old conscientious objector, Gene Keyes, setting fire to his card on Christmas Day in Champaign, Illinois. In May 1964, a larger demonstration, with about 50 people in Union Square, New York, was organized by the War Resisters League chaired by David McReynolds.",
+					"extract_html": "<p><b>Draft-card burning</b> was a symbol of protest performed by thousands of young men in the United States and Australia in the 1960s and early 1970s as part of the anti-war movement. The first draft-card burners were American men participating in the opposition to United States involvement in the Vietnam War. The first well-publicized protest was in December 1963, with a 22-year-old conscientious objector, Gene Keyes, setting fire to his card on Christmas Day in Champaign, Illinois. In May 1964, a larger demonstration, with about 50 people in Union Square, New York, was organized by the War Resisters League chaired by David McReynolds.</p>",
+					"normalizedtitle": "Draft-card burning"
+				},
+				{
+					"type": "standard",
+					"title": "Military_Selective_Service_Act",
+					"displaytitle": "<span class=\"mw-page-title-main\">Military Selective Service Act</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q16933799",
+					"titles": {
+						"canonical": "Military_Selective_Service_Act",
+						"normalized": "Military Selective Service Act",
+						"display": "<span class=\"mw-page-title-main\">Military Selective Service Act</span>"
+					},
+					"pageid": 22527525,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/320px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+						"width": 320,
+						"height": 320
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/600px-Great_Seal_of_the_United_States_%28obverse%29.svg.png",
+						"width": 600,
+						"height": 600
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1238739107",
+					"tid": "1735b8dd-5327-11ef-9c94-2fea44de58d4",
+					"timestamp": "2024-08-05T12:34:43Z",
+					"description": "1948 US Federal law regarding selective service",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Military_Selective_Service_Act",
+							"revisions": "https://en.wikipedia.org/wiki/Military_Selective_Service_Act?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Military_Selective_Service_Act?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Military_Selective_Service_Act"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Military_Selective_Service_Act",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Military_Selective_Service_Act",
+							"edit": "https://en.m.wikipedia.org/wiki/Military_Selective_Service_Act?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Military_Selective_Service_Act"
+						}
+					},
+					"extract": "The Selective Service Act of 1948, also known as the Elston Act, was a United States federal law enacted June 24, 1948, that established the current implementation of the Selective Service System.",
+					"extract_html": "<p>The <b>Selective Service Act of 1948</b>, also known as the <b>Elston Act</b>, was a United States federal law enacted June 24, 1948, that established the current implementation of the Selective Service System.</p>",
+					"normalizedtitle": "Military Selective Service Act"
+				}
+			],
+			"year": 1965
+		},
+		{
+			"text": "Hurricane Hazel (flooding pictured) made landfall in the Carolinas in the United States before moving north to Toronto in Canada later the same day, killing 176 people in the two countries.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Hurricane_Hazel",
+					"displaytitle": "<span class=\"mw-page-title-main\">Hurricane Hazel</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q2744086",
+					"titles": {
+						"canonical": "Hurricane_Hazel",
+						"normalized": "Hurricane Hazel",
+						"display": "<span class=\"mw-page-title-main\">Hurricane Hazel</span>"
+					},
+					"pageid": 466888,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hazel.gif",
+						"width": 304,
+						"height": 272
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hazel.gif",
+						"width": 304,
+						"height": 272
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251334289",
+					"tid": "3c5c61f6-8b16-11ef-8832-c29375ecc8b4",
+					"timestamp": "2024-10-15T16:55:09Z",
+					"description": "Category 4 Atlantic hurricane in 1954",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Hurricane_Hazel",
+							"revisions": "https://en.wikipedia.org/wiki/Hurricane_Hazel?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Hurricane_Hazel?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Hurricane_Hazel"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Hurricane_Hazel",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Hurricane_Hazel",
+							"edit": "https://en.m.wikipedia.org/wiki/Hurricane_Hazel?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Hurricane_Hazel"
+						}
+					},
+					"extract": "Hurricane Hazel was the deadliest, second-costliest, and most intense hurricane of the 1954 Atlantic hurricane season. The storm killed at least 469 people in Haiti before it struck the United States near the border between North and South Carolina as a Category 4 hurricane. After causing 95 fatalities in the US, Hazel struck Canada as an extratropical storm, which raised the death toll by 81 people, mostly in Toronto. As a result of the high death toll and the damage caused by Hazel, its name was retired from use for North Atlantic hurricanes.",
+					"extract_html": "<p><b>Hurricane Hazel</b> was the deadliest, second-costliest, and most intense hurricane of the 1954 Atlantic hurricane season. The storm killed at least 469 people in Haiti before it struck the United States near the border between North and South Carolina as a Category 4 hurricane. After causing 95 fatalities in the US, Hazel struck Canada as an extratropical storm, which raised the death toll by 81 people, mostly in Toronto. As a result of the high death toll and the damage caused by Hazel, its name was retired from use for North Atlantic hurricanes.</p>",
+					"normalizedtitle": "Hurricane Hazel"
+				},
+				{
+					"type": "standard",
+					"title": "Carolinas",
+					"displaytitle": "<span class=\"mw-page-title-main\">Carolinas</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q2747220",
+					"titles": {
+						"canonical": "Carolinas",
+						"normalized": "Carolinas",
+						"display": "<span class=\"mw-page-title-main\">Carolinas</span>"
+					},
+					"pageid": 340152,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Carolinas.svg/320px-Carolinas.svg.png",
+						"width": 320,
+						"height": 198
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Carolinas.svg/959px-Carolinas.svg.png",
+						"width": 959,
+						"height": 593
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1246121434",
+					"tid": "69720f54-748f-11ef-9255-0f83193b2f7f",
+					"timestamp": "2024-09-17T00:54:37Z",
+					"description": "U.S. states of North Carolina and South Carolina",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 34.80472222,
+						"lon": -79.67527778
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Carolinas",
+							"revisions": "https://en.wikipedia.org/wiki/Carolinas?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Carolinas?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Carolinas"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Carolinas",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Carolinas",
+							"edit": "https://en.m.wikipedia.org/wiki/Carolinas?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Carolinas"
+						}
+					},
+					"extract": "The Carolinas, also known simply as Carolina, are the U.S. states of North Carolina and South Carolina considered collectively. They are bordered by Virginia to the north, Tennessee to the west, and Georgia to the southwest. The Atlantic Ocean is to the east.",
+					"extract_html": "<p>The <b>Carolinas</b>, also known simply as <b>Carolina</b>, are the U.S. states of North Carolina and South Carolina considered collectively. They are bordered by Virginia to the north, Tennessee to the west, and Georgia to the southwest. The Atlantic Ocean is to the east.</p>",
+					"normalizedtitle": "Carolinas"
+				},
+				{
+					"type": "standard",
+					"title": "Toronto",
+					"displaytitle": "<span class=\"mw-page-title-main\">Toronto</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q172",
+					"titles": {
+						"canonical": "Toronto",
+						"normalized": "Toronto",
+						"display": "<span class=\"mw-page-title-main\">Toronto</span>"
+					},
+					"pageid": 64646,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CC_2022-06-18_193-Pano_%28cropped%29_01.jpg/320px-CC_2022-06-18_193-Pano_%28cropped%29_01.jpg",
+						"width": 320,
+						"height": 167
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/CC_2022-06-18_193-Pano_%28cropped%29_01.jpg",
+						"width": 1742,
+						"height": 908
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250865285",
+					"tid": "b3b5a1c1-88fa-11ef-a8fc-e21fe64ca756",
+					"timestamp": "2024-10-13T00:33:01Z",
+					"description": "Capital city of Ontario, Canada",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 43.74166667,
+						"lon": -79.37333333
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Toronto",
+							"revisions": "https://en.wikipedia.org/wiki/Toronto?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Toronto?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Toronto"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Toronto",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Toronto",
+							"edit": "https://en.m.wikipedia.org/wiki/Toronto?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Toronto"
+						}
+					},
+					"extract": "Toronto is the most populous city in Canada and the capital city of the Canadian province of Ontario. With a population of 2,794,356 in 2021, it is the fourth-most populous city in North America. The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021 population of 6,712,341. Toronto is an international centre of business, finance, arts, sports, and culture and is one of the most multicultural and cosmopolitan cities in the world.",
+					"extract_html": "<p><b>Toronto</b> is the most populous city in Canada and the capital city of the Canadian province of Ontario. With a population of 2,794,356 in 2021, it is the fourth-most populous city in North America. The city is the anchor of the Golden Horseshoe, an urban agglomeration of 9,765,188 people surrounding the western end of Lake Ontario, while the Greater Toronto Area proper had a 2021 population of 6,712,341. Toronto is an international centre of business, finance, arts, sports, and culture and is one of the most multicultural and cosmopolitan cities in the world.</p>",
+					"normalizedtitle": "Toronto"
+				}
+			],
+			"year": 1954
+		},
+		{
+			"text": "Air India, the flag carrier airline of India, began operations under the name Tata Airlines.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Air_India",
+					"displaytitle": "<span class=\"mw-page-title-main\">Air India</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q69906",
+					"titles": {
+						"canonical": "Air_India",
+						"normalized": "Air India",
+						"display": "<span class=\"mw-page-title-main\">Air India</span>"
+					},
+					"pageid": 26457880,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250881071",
+					"tid": "7e1ad535-890e-11ef-8371-7200a5662ec7",
+					"timestamp": "2024-10-13T02:54:41Z",
+					"description": "Flag carrier of India",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Air_India",
+							"revisions": "https://en.wikipedia.org/wiki/Air_India?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Air_India?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Air_India"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Air_India",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Air_India",
+							"edit": "https://en.m.wikipedia.org/wiki/Air_India?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Air_India"
+						}
+					},
+					"extract": "Air India is the flag carrier airline of India. It is owned by Air India Limited, a Tata Group enterprise and operates a fleet of Airbus and Boeing aircraft serving 102 domestic and international destinations. It is headquartered in Gurugram. The airline has its main hub at Indira Gandhi International Airport in Delhi, and secondary hubs at Kempegowda International Airport in Bangalore and Chhatrapati Shivaji Maharaj International Airport in Mumbai, alongside several focus cities across India. As of July 2023, the airline is the second-largest airline in India in terms of passengers carried, after IndiGo. Air India became the 27th member of Star Alliance on 11 July 2014.",
+					"extract_html": "<p><b>Air India</b> is the flag carrier airline of India. It is owned by Air India Limited, a Tata Group enterprise and operates a fleet of Airbus and Boeing aircraft serving 102 domestic and international destinations. It is headquartered in Gurugram. The airline has its main hub at Indira Gandhi International Airport in Delhi, and secondary hubs at Kempegowda International Airport in Bangalore and Chhatrapati Shivaji Maharaj International Airport in Mumbai, alongside several focus cities across India. As of July 2023, the airline is the second-largest airline in India in terms of passengers carried, after IndiGo. Air India became the 27th member of Star Alliance on 11 July 2014.</p>",
+					"normalizedtitle": "Air India"
+				},
+				{
+					"type": "standard",
+					"title": "Flag_carrier",
+					"displaytitle": "<span class=\"mw-page-title-main\">Flag carrier</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q721639",
+					"titles": {
+						"canonical": "Flag_carrier",
+						"normalized": "Flag carrier",
+						"display": "<span class=\"mw-page-title-main\">Flag carrier</span>"
+					},
+					"pageid": 465816,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emirates_B777-300ER_%28A6-ECU%29_%40_FCO%2C_July_2011.jpg/320px-Emirates_B777-300ER_%28A6-ECU%29_%40_FCO%2C_July_2011.jpg",
+						"width": 320,
+						"height": 218
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/0/04/Emirates_B777-300ER_%28A6-ECU%29_%40_FCO%2C_July_2011.jpg",
+						"width": 1280,
+						"height": 870
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250103676",
+					"tid": "a9a059fe-857e-11ef-9bae-bc43419fb3ac",
+					"timestamp": "2024-10-08T14:07:33Z",
+					"description": "Transport company with preferential status",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Flag_carrier",
+							"revisions": "https://en.wikipedia.org/wiki/Flag_carrier?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Flag_carrier?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Flag_carrier"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Flag_carrier",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Flag_carrier",
+							"edit": "https://en.m.wikipedia.org/wiki/Flag_carrier?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Flag_carrier"
+						}
+					},
+					"extract": "A flag carrier is a transport company, such as an airline or shipping company, that, being locally registered in a given sovereign state, enjoys preferential rights or privileges accorded by the government for international operations.",
+					"extract_html": "<p>A <b>flag carrier</b> is a transport company, such as an airline or shipping company, that, being locally registered in a given sovereign state, enjoys preferential rights or privileges accorded by the government for international operations.</p>",
+					"normalizedtitle": "Flag carrier"
+				}
+			],
+			"year": 1932
+		},
+		{
+			"text": "The \"From Hell\" letter, allegedly from Jack the Ripper, was sent to George Lusk, the chairman of the Whitechapel Vigilance Committee in London.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "From_Hell_letter",
+					"displaytitle": "<span class=\"mw-page-title-main\">From Hell letter</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q1290260",
+					"titles": {
+						"canonical": "From_Hell_letter",
+						"normalized": "From Hell letter",
+						"display": "<span class=\"mw-page-title-main\">From Hell letter</span>"
+					},
+					"pageid": 1232201,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FromHellLetter.jpg/320px-FromHellLetter.jpg",
+						"width": 320,
+						"height": 459
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FromHellLetter.jpg",
+						"width": 678,
+						"height": 972
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251392360",
+					"tid": "519cb199-8b45-11ef-b9b4-47d08175b207",
+					"timestamp": "2024-10-15T22:32:11Z",
+					"description": "Letter allegedly written by Jack the Ripper",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/From_Hell_letter",
+							"revisions": "https://en.wikipedia.org/wiki/From_Hell_letter?action=history",
+							"edit": "https://en.wikipedia.org/wiki/From_Hell_letter?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:From_Hell_letter"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/From_Hell_letter",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/From_Hell_letter",
+							"edit": "https://en.m.wikipedia.org/wiki/From_Hell_letter?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:From_Hell_letter"
+						}
+					},
+					"extract": "The \"From Hell\" letter was a letter sent with half of a preserved human kidney to George Lusk, the chairman of the Whitechapel Vigilance Committee, in October 1888. The author of this letter claimed to be the unidentified serial killer known as Jack the Ripper, who had murdered and mutilated at least four women in the Whitechapel and Spitalfields districts of London in the two months prior to Lusk receiving this letter, and whose vigilance committee Lusk led in civilian efforts to assist the police in identifying and apprehending the perpetrator.",
+					"extract_html": "<p>The <b>\"From Hell\" letter</b> was a letter sent with half of a preserved human kidney to George Lusk, the chairman of the Whitechapel Vigilance Committee, in October 1888. The author of this letter claimed to be the unidentified serial killer known as Jack the Ripper, who had murdered and mutilated at least four women in the Whitechapel and Spitalfields districts of London in the two months prior to Lusk receiving this letter, and whose vigilance committee Lusk led in civilian efforts to assist the police in identifying and apprehending the perpetrator.</p>",
+					"normalizedtitle": "From Hell letter"
+				},
+				{
+					"type": "standard",
+					"title": "Jack_the_Ripper",
+					"displaytitle": "<span class=\"mw-page-title-main\">Jack the Ripper</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q43963",
+					"titles": {
+						"canonical": "Jack_the_Ripper",
+						"normalized": "Jack the Ripper",
+						"display": "<span class=\"mw-page-title-main\">Jack the Ripper</span>"
+					},
+					"pageid": 6860726,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/320px-JacktheRipper1888.jpg",
+						"width": 320,
+						"height": 339
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+						"width": 1175,
+						"height": 1245
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1250036816",
+					"tid": "7a1330aa-8529-11ef-b512-18c15365a8cc",
+					"timestamp": "2024-10-08T03:57:46Z",
+					"description": "Unidentified serial killer in London in 1888",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Jack_the_Ripper",
+							"revisions": "https://en.wikipedia.org/wiki/Jack_the_Ripper?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Jack_the_Ripper?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Jack_the_Ripper"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Jack_the_Ripper",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Jack_the_Ripper",
+							"edit": "https://en.m.wikipedia.org/wiki/Jack_the_Ripper?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Jack_the_Ripper"
+						}
+					},
+					"extract": "Jack the Ripper was an unidentified serial killer active in and around the impoverished Whitechapel district of London, England, in 1888. In both criminal case files and the contemporaneous journalistic accounts, the killer was also called the Whitechapel Murderer and Leather Apron.",
+					"extract_html": "<p><b>Jack the Ripper</b> was an unidentified serial killer active in and around the impoverished Whitechapel district of London, England, in 1888. In both criminal case files and the contemporaneous journalistic accounts, the killer was also called the <b>Whitechapel Murderer</b> and <b>Leather Apron</b>.</p>",
+					"normalizedtitle": "Jack the Ripper"
+				},
+				{
+					"type": "standard",
+					"title": "George_Lusk",
+					"displaytitle": "<span class=\"mw-page-title-main\">George Lusk</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q15476998",
+					"titles": {
+						"canonical": "George_Lusk",
+						"normalized": "George Lusk",
+						"display": "<span class=\"mw-page-title-main\">George Lusk</span>"
+					},
+					"pageid": 13548831,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/George_Lusk%2C_President_of_the_Whitechapel_Vigilance_Committee.jpg/320px-George_Lusk%2C_President_of_the_Whitechapel_Vigilance_Committee.jpg",
+						"width": 320,
+						"height": 429
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/George_Lusk%2C_President_of_the_Whitechapel_Vigilance_Committee.jpg",
+						"width": 465,
+						"height": 624
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251342640",
+					"tid": "9f9dc77c-8b1d-11ef-bd47-2c0bbd0dadaf",
+					"timestamp": "2024-10-15T17:48:02Z",
+					"description": "Chairman of the Whitechapel Vigilance Committee (1839–1919)",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/George_Lusk",
+							"revisions": "https://en.wikipedia.org/wiki/George_Lusk?action=history",
+							"edit": "https://en.wikipedia.org/wiki/George_Lusk?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:George_Lusk"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/George_Lusk",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/George_Lusk",
+							"edit": "https://en.m.wikipedia.org/wiki/George_Lusk?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:George_Lusk"
+						}
+					},
+					"extract": "George Akin Lusk was a British builder and decorator who specialised in music hall restoration. He was the chairman of the Whitechapel Vigilance Committee during the Whitechapel murders, including the killings ascribed to Jack the Ripper, in 1888.",
+					"extract_html": "<p><b>George Akin Lusk</b> was a British builder and decorator who specialised in music hall restoration. He was the chairman of the Whitechapel Vigilance Committee during the Whitechapel murders, including the killings ascribed to Jack the Ripper, in 1888.</p>",
+					"normalizedtitle": "George Lusk"
+				},
+				{
+					"type": "standard",
+					"title": "Whitechapel_Vigilance_Committee",
+					"displaytitle": "<span class=\"mw-page-title-main\">Whitechapel Vigilance Committee</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q2901354",
+					"titles": {
+						"canonical": "Whitechapel_Vigilance_Committee",
+						"normalized": "Whitechapel Vigilance Committee",
+						"display": "<span class=\"mw-page-title-main\">Whitechapel Vigilance Committee</span>"
+					},
+					"pageid": 2514942,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/JacktheRipper1888.jpg/320px-JacktheRipper1888.jpg",
+						"width": 320,
+						"height": 339
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/a/a1/JacktheRipper1888.jpg",
+						"width": 1175,
+						"height": 1245
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1151973209",
+					"tid": "a9c3a5b3-e4ea-11ed-9a95-ebdc62ec9abe",
+					"timestamp": "2023-04-27T11:00:04Z",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Whitechapel_Vigilance_Committee",
+							"revisions": "https://en.wikipedia.org/wiki/Whitechapel_Vigilance_Committee?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Whitechapel_Vigilance_Committee?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Whitechapel_Vigilance_Committee"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Whitechapel_Vigilance_Committee",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Whitechapel_Vigilance_Committee",
+							"edit": "https://en.m.wikipedia.org/wiki/Whitechapel_Vigilance_Committee?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Whitechapel_Vigilance_Committee"
+						}
+					},
+					"extract": "The Whitechapel Vigilance Committee was a group of local civilian volunteers who patrolled the streets of London's Whitechapel district during the period of the Whitechapel murders of 1888. The volunteers were active mainly at night, assisting the Metropolitan Police in the search of the unknown murderer known as the \"Whitechapel Murderer\", \"Leather Apron\" and, latterly, \"Jack the Ripper\".",
+					"extract_html": "<p>The <b>Whitechapel Vigilance Committee</b> was a group of local civilian volunteers who patrolled the streets of London's Whitechapel district during the period of the Whitechapel murders of 1888. The volunteers were active mainly at night, assisting the Metropolitan Police in the search of the unknown murderer known as the \"Whitechapel Murderer\", \"Leather Apron\" and, latterly, \"Jack the Ripper\".</p>",
+					"normalizedtitle": "Whitechapel Vigilance Committee"
+				}
+			],
+			"year": 1888
+		},
+		{
+			"text": "American Civil War: Confederate forces captured Glasgow, Missouri, although it had little long-term benefit as Price's Missouri Expedition was defeated a week later.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "American_Civil_War",
+					"displaytitle": "<span class=\"mw-page-title-main\">American Civil War</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q8676",
+					"titles": {
+						"canonical": "American_Civil_War",
+						"normalized": "American Civil War",
+						"display": "<span class=\"mw-page-title-main\">American Civil War</span>"
+					},
+					"pageid": 863,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/CivilWarUSAColl.png/320px-CivilWarUSAColl.png",
+						"width": 320,
+						"height": 519
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/c/c7/CivilWarUSAColl.png",
+						"width": 398,
+						"height": 645
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251089397",
+					"tid": "e5bb3276-8a14-11ef-8546-0b1f947ab417",
+					"timestamp": "2024-10-14T10:13:03Z",
+					"description": "1861–1865 conflict in the United States",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/American_Civil_War",
+							"revisions": "https://en.wikipedia.org/wiki/American_Civil_War?action=history",
+							"edit": "https://en.wikipedia.org/wiki/American_Civil_War?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:American_Civil_War"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/American_Civil_War",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/American_Civil_War",
+							"edit": "https://en.m.wikipedia.org/wiki/American_Civil_War?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:American_Civil_War"
+						}
+					},
+					"extract": "The American Civil War was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union. The central conflict leading to war was a dispute over whether slavery should be permitted to expand into the western territories, leading to more slave states, or be prohibited from doing so, which many believed would place slavery on a course of ultimate extinction.",
+					"extract_html": "<p>The <b>American Civil War</b> was a civil war in the United States between the Union and the Confederacy, which was formed in 1861 by states that had seceded from the Union. The central conflict leading to war was a dispute over whether slavery should be permitted to expand into the western territories, leading to more slave states, or be prohibited from doing so, which many believed would place slavery on a course of ultimate extinction.</p>",
+					"normalizedtitle": "American Civil War"
+				},
+				{
+					"type": "standard",
+					"title": "Confederate_States_of_America",
+					"displaytitle": "<span class=\"mw-page-title-main\">Confederate States of America</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q81931",
+					"titles": {
+						"canonical": "Confederate_States_of_America",
+						"normalized": "Confederate States of America",
+						"display": "<span class=\"mw-page-title-main\">Confederate States of America</span>"
+					},
+					"pageid": 7023,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg/320px-Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg.png",
+						"width": 320,
+						"height": 178
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg/1080px-Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg.png",
+						"width": 1080,
+						"height": 600
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251277832",
+					"tid": "f2548c9c-8ad7-11ef-bec1-f6e0ce413094",
+					"timestamp": "2024-10-15T09:29:16Z",
+					"description": "Unrecognized state in North America (1861–1865)",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
+							"revisions": "https://en.wikipedia.org/wiki/Confederate_States_of_America?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Confederate_States_of_America?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Confederate_States_of_America"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Confederate_States_of_America",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Confederate_States_of_America",
+							"edit": "https://en.m.wikipedia.org/wiki/Confederate_States_of_America?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Confederate_States_of_America"
+						}
+					},
+					"extract": "The Confederate States of America (CSA), commonly referred to as the Confederate States (C.S.), the Confederacy, or the South, was an unrecognized breakaway republic in the Southern United States that existed from February 8, 1861, to May 9, 1865. The Confederacy was composed of eleven U.S. states that declared secession and warred against the United States during the American Civil War. The states were South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, Tennessee, and North Carolina.",
+					"extract_html": "<p>The <b>Confederate States of America</b> (<b>CSA</b>), commonly referred to as the <b>Confederate States</b> (<b>C.S.</b>), <b>the Confederacy</b>, or <b>the South</b>, was an unrecognized breakaway republic in the Southern United States that existed from February 8, 1861, to May 9, 1865. The Confederacy was composed of eleven U.S. states that declared secession and warred against the United States during the American Civil War. The states were South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, Tennessee, and North Carolina.</p>",
+					"normalizedtitle": "Confederate States of America"
+				},
+				{
+					"type": "standard",
+					"title": "Battle_of_Glasgow,_Missouri",
+					"displaytitle": "<span class=\"mw-page-title-main\">Battle of Glasgow, Missouri</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q4871102",
+					"titles": {
+						"canonical": "Battle_of_Glasgow,_Missouri",
+						"normalized": "Battle of Glasgow, Missouri",
+						"display": "<span class=\"mw-page-title-main\">Battle of Glasgow, Missouri</span>"
+					},
+					"pageid": 1615876,
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251391813",
+					"tid": "dfc464d9-8b44-11ef-bcd9-d52f6fefb6ff",
+					"timestamp": "2024-10-15T22:29:00Z",
+					"description": "1864 battle of the American Civil War",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 39.2379,
+						"lon": -92.8422
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Battle_of_Glasgow%2C_Missouri",
+							"revisions": "https://en.wikipedia.org/wiki/Battle_of_Glasgow%2C_Missouri?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Battle_of_Glasgow%2C_Missouri?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Battle_of_Glasgow%2C_Missouri"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Battle_of_Glasgow%2C_Missouri",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Battle_of_Glasgow%2C_Missouri",
+							"edit": "https://en.m.wikipedia.org/wiki/Battle_of_Glasgow%2C_Missouri?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Battle_of_Glasgow%2C_Missouri"
+						}
+					},
+					"extract": "The Battle of Glasgow was fought on October 15, 1864, in and near Glasgow, Missouri as part of Price's Missouri Expedition during the American Civil War. The battle resulted in the capture of needed weapons and improved Confederate morale, which had been dented after a defeat in the Battle of Pilot Knob.",
+					"extract_html": "<p>The <b>Battle of Glasgow</b> was fought on October 15, 1864, in and near Glasgow, Missouri as part of Price's Missouri Expedition during the American Civil War. The battle resulted in the capture of needed weapons and improved Confederate morale, which had been dented after a defeat in the Battle of Pilot Knob.</p>",
+					"normalizedtitle": "Battle of Glasgow, Missouri"
+				},
+				{
+					"type": "standard",
+					"title": "Glasgow,_Missouri",
+					"displaytitle": "<span class=\"mw-page-title-main\">Glasgow, Missouri</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q959618",
+					"titles": {
+						"canonical": "Glasgow,_Missouri",
+						"normalized": "Glasgow, Missouri",
+						"display": "<span class=\"mw-page-title-main\">Glasgow, Missouri</span>"
+					},
+					"pageid": 150726,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Glasgow%2C_Missouri_%282014%29.jpg/320px-Glasgow%2C_Missouri_%282014%29.jpg",
+						"width": 320,
+						"height": 222
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/3/32/Glasgow%2C_Missouri_%282014%29.jpg",
+						"width": 4534,
+						"height": 3148
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251366402",
+					"tid": "5f940845-8b30-11ef-8b4f-a992a90cecb8",
+					"timestamp": "2024-10-15T20:02:15Z",
+					"description": "City in Missouri, United States",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 39.22805556,
+						"lon": -92.83833333
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Glasgow%2C_Missouri",
+							"revisions": "https://en.wikipedia.org/wiki/Glasgow%2C_Missouri?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Glasgow%2C_Missouri?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Glasgow%2C_Missouri"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Glasgow%2C_Missouri",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Glasgow%2C_Missouri",
+							"edit": "https://en.m.wikipedia.org/wiki/Glasgow%2C_Missouri?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Glasgow%2C_Missouri"
+						}
+					},
+					"extract": "Glasgow is a city on the Missouri River mostly in northwest Howard County and extending into the southeast corner of Chariton County in Missouri, United States. The population was 1,087 at the 2020 census.",
+					"extract_html": "<p><b>Glasgow</b> is a city on the Missouri River mostly in northwest Howard County and extending into the southeast corner of Chariton County in Missouri, United States. The population was 1,087 at the 2020 census.</p>",
+					"normalizedtitle": "Glasgow, Missouri"
+				},
+				{
+					"type": "standard",
+					"title": "Price's_Missouri_Expedition",
+					"displaytitle": "<span class=\"mw-page-title-main\">Price&#039;s Missouri Expedition</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q2489794",
+					"titles": {
+						"canonical": "Price's_Missouri_Expedition",
+						"normalized": "Price's Missouri Expedition",
+						"display": "<span class=\"mw-page-title-main\">Price&#039;s Missouri Expedition</span>"
+					},
+					"pageid": 2323849,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Price_Raid_%28cropped%29.jpg/320px-Price_Raid_%28cropped%29.jpg",
+						"width": 320,
+						"height": 230
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/1/18/Price_Raid_%28cropped%29.jpg",
+						"width": 746,
+						"height": 537
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251321036",
+					"tid": "298f6b28-8b09-11ef-9782-834a730b3cda",
+					"timestamp": "2024-10-15T15:21:34Z",
+					"description": "Military campaign during the American Civil War",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Price's_Missouri_Expedition",
+							"revisions": "https://en.wikipedia.org/wiki/Price's_Missouri_Expedition?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Price's_Missouri_Expedition?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Price's_Missouri_Expedition"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Price's_Missouri_Expedition",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Price's_Missouri_Expedition",
+							"edit": "https://en.m.wikipedia.org/wiki/Price's_Missouri_Expedition?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Price's_Missouri_Expedition"
+						}
+					},
+					"extract": "Price's Missouri Expedition, also known as Price's Raid or Price's Missouri Raid, was an unsuccessful Confederate cavalry raid through Arkansas, Missouri, and Kansas in the Trans-Mississippi Theater of the American Civil War. Led by Confederate Major General Sterling Price, the campaign aimed to recapture Missouri and renew the Confederate initiative in the larger conflict.",
+					"extract_html": "<p><b>Price's Missouri Expedition</b>, also known as <b>Price's Raid</b> or <b>Price's Missouri Raid</b>, was an unsuccessful Confederate cavalry raid through Arkansas, Missouri, and Kansas in the Trans-Mississippi Theater of the American Civil War. Led by Confederate Major General Sterling Price, the campaign aimed to recapture Missouri and renew the Confederate initiative in the larger conflict.</p>",
+					"normalizedtitle": "Price's Missouri Expedition"
+				}
+			],
+			"year": 1864
+		},
+		{
+			"text": "Ottoman–Habsburg wars: The siege of Vienna ended with Austrian forces repelling the invading Turks, turning the tide against almost a century of conquest in Europe by the Ottoman Empire.",
+			"pages": [
+				{
+					"type": "standard",
+					"title": "Ottoman–Habsburg_wars",
+					"displaytitle": "<span class=\"mw-page-title-main\">Ottoman–Habsburg wars</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q786171",
+					"titles": {
+						"canonical": "Ottoman–Habsburg_wars",
+						"normalized": "Ottoman–Habsburg wars",
+						"display": "<span class=\"mw-page-title-main\">Ottoman–Habsburg wars</span>"
+					},
+					"pageid": 11823525,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg/320px-MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
+						"width": 320,
+						"height": 320
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
+						"width": 3000,
+						"height": 3000
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251359197",
+					"tid": "d201eef5-8b2a-11ef-8dbf-d16892b10abe",
+					"timestamp": "2024-10-15T19:22:30Z",
+					"description": "1526–1791 series of wars in Europe",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars",
+							"revisions": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Ottoman%E2%80%93Habsburg_wars"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ottoman%E2%80%93Habsburg_wars",
+							"edit": "https://en.m.wikipedia.org/wiki/Ottoman%E2%80%93Habsburg_wars?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Ottoman%E2%80%93Habsburg_wars"
+						}
+					},
+					"extract": "The Ottoman–Habsburg wars were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, The Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia.",
+					"extract_html": "<p>The <b>Ottoman–Habsburg wars</b> were fought from the 16th to the 18th centuries between the Ottoman Empire and the Habsburg monarchy, which was at times supported by the Kingdom of Hungary, Polish–Lithuanian Commonwealth, The Holy Roman Empire, and Habsburg Spain. The wars were dominated by land campaigns in Hungary, including Transylvania and Vojvodina, Croatia, and central Serbia.</p>",
+					"normalizedtitle": "Ottoman–Habsburg wars"
+				},
+				{
+					"type": "standard",
+					"title": "Siege_of_Vienna_(1529)",
+					"displaytitle": "<span class=\"mw-page-title-main\">Siege of Vienna (1529)</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q207576",
+					"titles": {
+						"canonical": "Siege_of_Vienna_(1529)",
+						"normalized": "Siege of Vienna (1529)",
+						"display": "<span class=\"mw-page-title-main\">Siege of Vienna (1529)</span>"
+					},
+					"pageid": 386667,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Siegeofvienna1529.jpg/320px-Siegeofvienna1529.jpg",
+						"width": 320,
+						"height": 447
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Siegeofvienna1529.jpg",
+						"width": 884,
+						"height": 1234
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1247418214",
+					"tid": "9ac37daa-7a39-11ef-ae71-8786289cb09e",
+					"timestamp": "2024-09-24T05:55:30Z",
+					"description": "Failed siege of the Ottoman–Habsburg wars",
+					"description_source": "local",
+					"coordinates": {
+						"lat": 48.2083,
+						"lon": 16.3731
+					},
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+							"revisions": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Siege_of_Vienna_(1529)?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Siege_of_Vienna_(1529)"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Siege_of_Vienna_(1529)",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Siege_of_Vienna_(1529)",
+							"edit": "https://en.m.wikipedia.org/wiki/Siege_of_Vienna_(1529)?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Siege_of_Vienna_(1529)"
+						}
+					},
+					"extract": "The Siege of Vienna, in 1529, was the first attempt by the Ottoman Empire to capture the city of Vienna in the Archduchy of Austria, part of the Holy Roman Empire. Suleiman the Magnificent, sultan of the Ottomans, attacked the city with over 100,000 men, while the defenders, led by Niklas Graf Salm, numbered no more than 21,000. Nevertheless, Vienna was able to survive the siege, which ultimately lasted just over two weeks, from 27 September to 15 October, 1529.",
+					"extract_html": "<p>The <b>Siege of Vienna</b>, in 1529, was the first attempt by the Ottoman Empire to capture the city of Vienna in the Archduchy of Austria, part of the Holy Roman Empire. Suleiman the Magnificent, sultan of the Ottomans, attacked the city with over 100,000 men, while the defenders, led by Niklas Graf Salm, numbered no more than 21,000. Nevertheless, Vienna was able to survive the siege, which ultimately lasted just over two weeks, from 27 September to 15 October, 1529.</p>",
+					"normalizedtitle": "Siege of Vienna (1529)"
+				},
+				{
+					"type": "standard",
+					"title": "Ottoman_wars_in_Europe",
+					"displaytitle": "<span class=\"mw-page-title-main\">Ottoman wars in Europe</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q698985",
+					"titles": {
+						"canonical": "Ottoman_wars_in_Europe",
+						"normalized": "Ottoman wars in Europe",
+						"display": "<span class=\"mw-page-title-main\">Ottoman wars in Europe</span>"
+					},
+					"pageid": 865346,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vienna_Battle_1683.jpg/320px-Vienna_Battle_1683.jpg",
+						"width": 320,
+						"height": 212
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Vienna_Battle_1683.jpg",
+						"width": 2783,
+						"height": 1842
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1241199144",
+					"tid": "77c01fc5-5e76-11ef-b605-8d6f1c80e2de",
+					"timestamp": "2024-08-19T22:00:38Z",
+					"description": "Series of military conflicts between the Ottoman Empire and various European states",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe",
+							"revisions": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Ottoman_wars_in_Europe?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Ottoman_wars_in_Europe"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Ottoman_wars_in_Europe",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ottoman_wars_in_Europe",
+							"edit": "https://en.m.wikipedia.org/wiki/Ottoman_wars_in_Europe?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Ottoman_wars_in_Europe"
+						}
+					},
+					"extract": "A series of military conflicts between the Ottoman Empire and various European states took place from the Late Middle Ages up through the early 20th century. The earliest conflicts began during the Byzantine–Ottoman wars, waged in Anatolia in the late 13th century before entering Europe in the mid-14th century with the Bulgarian–Ottoman wars. The mid-15th century saw the Serbian–Ottoman wars and the Albanian-Ottoman wars. Much of this period was characterized by the Ottoman expansion into the Balkans. The Ottoman Empire made further inroads into Central Europe in the 15th and 16th centuries, culminating in the peak of Ottoman territorial claims in Europe.",
+					"extract_html": "<p>A series of military conflicts between the Ottoman Empire and various European states took place from the Late Middle Ages up through the early 20th century. The earliest conflicts began during the Byzantine–Ottoman wars, waged in Anatolia in the late 13th century before entering Europe in the mid-14th century with the Bulgarian–Ottoman wars. The mid-15th century saw the Serbian–Ottoman wars and the Albanian-Ottoman wars. Much of this period was characterized by the Ottoman expansion into the Balkans. The Ottoman Empire made further inroads into Central Europe in the 15th and 16th centuries, culminating in the peak of Ottoman territorial claims in Europe.</p>",
+					"normalizedtitle": "Ottoman wars in Europe"
+				},
+				{
+					"type": "standard",
+					"title": "Ottoman_Empire",
+					"displaytitle": "<span class=\"mw-page-title-main\">Ottoman Empire</span>",
+					"namespace": {
+						"id": 0,
+						"text": ""
+					},
+					"wikibase_item": "Q12560",
+					"titles": {
+						"canonical": "Ottoman_Empire",
+						"normalized": "Ottoman Empire",
+						"display": "<span class=\"mw-page-title-main\">Ottoman Empire</span>"
+					},
+					"pageid": 22278,
+					"thumbnail": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/320px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png",
+						"width": 320,
+						"height": 213
+					},
+					"originalimage": {
+						"source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/1200px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png",
+						"width": 1200,
+						"height": 800
+					},
+					"lang": "en",
+					"dir": "ltr",
+					"revision": "1251287091",
+					"tid": "6138ef8b-8ae6-11ef-b3f7-659baa0c418f",
+					"timestamp": "2024-10-15T11:12:35Z",
+					"description": "Turkish empire (1299–1922)",
+					"description_source": "local",
+					"content_urls": {
+						"desktop": {
+							"page": "https://en.wikipedia.org/wiki/Ottoman_Empire",
+							"revisions": "https://en.wikipedia.org/wiki/Ottoman_Empire?action=history",
+							"edit": "https://en.wikipedia.org/wiki/Ottoman_Empire?action=edit",
+							"talk": "https://en.wikipedia.org/wiki/Talk:Ottoman_Empire"
+						},
+						"mobile": {
+							"page": "https://en.m.wikipedia.org/wiki/Ottoman_Empire",
+							"revisions": "https://en.m.wikipedia.org/wiki/Special:History/Ottoman_Empire",
+							"edit": "https://en.m.wikipedia.org/wiki/Ottoman_Empire?action=edit",
+							"talk": "https://en.m.wikipedia.org/wiki/Talk:Ottoman_Empire"
+						}
+					},
+					"extract": "The Ottoman Empire, historically and colloquially known as the Turkish Empire, was an empire centred in Anatolia that controlled much of Southeast Europe, West Asia, and North Africa from the 14th to early 20th centuries; it also controlled parts of southeastern Central Europe between the early 16th and early 18th centuries.",
+					"extract_html": "<p>The <b>Ottoman Empire</b>, historically and colloquially known as the <b>Turkish Empire</b>, was an empire centred in Anatolia that controlled much of Southeast Europe, West Asia, and North Africa from the 14th to early 20th centuries; it also controlled parts of southeastern Central Europe between the early 16th and early 18th centuries.</p>",
+					"normalizedtitle": "Ottoman Empire"
+				}
+			],
+			"year": 1529
+		}
+	]
+}
